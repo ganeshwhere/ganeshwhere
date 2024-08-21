@@ -25,14 +25,7 @@ I have a passion for graphic design, specializing in UI/UX and animation. My jou
         </a>
       </p>
 
-<h3 align="">DESIGN</h3>
 
-
-  <p align="">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=figma" />
-        </a>
-      </p>
 
 
 
