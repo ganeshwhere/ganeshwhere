@@ -11,6 +11,8 @@
 
 <h2 style="font-weight: 700">Tech Stacks :</h2>
 
+<hr>
+
 <h3 style="text-decoration : underline">Programming Languages</h3>
 <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=python,javascript,java" />
