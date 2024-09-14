@@ -9,7 +9,7 @@
 
 
 
-<h2 style="font-weight: 700">Tech Stacks :</h2>
+<h3 style="font-weight: 700">Tech Stacks :</h3>
 
 <hr>
 
