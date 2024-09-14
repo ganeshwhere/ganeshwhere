@@ -1,6 +1,6 @@
-<h3 align="center" style="font-size:55px;">GANESH W</h3>
+<h3 style="font-size:55px;">GANESH W</h3>
 <hr>
-<h3 align="center" style="font-size:25px;">Frontend Developer | UI/UX Designer</h3>
+<h3 style="font-size:25px;">Frontend Developer | UI/UX Designer</h3>
 <hr>
 <h3>Hi, I'm Ganesh, <u>Frontend Developer and UI/UX Designer</u> with a solid grasp of <u>Backend Development</u> principles, I am adept at creating intuitive and visually appealing web applications. Currently, I am honing my skills in Flutter and Next.js to expand my capabilities in mobile app development and modern web frameworks, enabling me to deliver cutting-edge digital solutions.</h3>
 
@@ -9,68 +9,65 @@
 
 
 
-<h3 align="center" style="font-size:35px; ">Tech Stacks :</h3>
+<h3 style="font-size:35px; ">Tech Stacks :</h3>
 
 <hr>
 
-<h3 align="center" style="text-decoration : underline">Programming Languages</h3>
-<p align="center"><a  href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=python,javascript,java&theme=light" />
-        </a></p>
+<h3 style="text-decoration : underline">Programming Languages</h3>
+<a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=python,javascript,java" />
+        </a>
 
 <hr>
 
-<h3 align="center" style="text-decoration : underline">Frontend Development</h3>
-<p align="center"><a href="https://skillicons.dev">
+<h3 style="text-decoration : underline">Frontend Development</h3>
+<a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,javascript,ts,react,vue,electron&theme=light" />
         </a>
 
 <hr>
 
-<h3 align="center" style="text-decoration : underline">Backend Development</h3>
-<p align="center"><a href="https://skillicons.dev">
+<h3 style="text-decoration : underline">Backend Development</h3>
+<a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=nodejs,python,django,flask,express&theme=light" />
         </a>
 <hr>
 
 
-<h3 align="center" style="text-decoration : underline">Database</h3>
-<p align="center"><a href="https://skillicons.dev">
+<h3 style="text-decoration : underline">Database</h3>
+<a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=mongo,mysql,redis&theme=light" />
         </a>
 <hr>
 
-<h3 align="center" style="text-decoration : underline">Currently Learning</h3>
-<p align="center"><a href="https://skillicons.dev">
+<h3 style="text-decoration : underline">Currently Learning</h3>
+<a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=flutter,nextjs&theme=light" />
         </a>
 
 <hr>
-
-<h3 align="center" style="text-decoration : underline">Others</h3>
-<p align="center"><a href="https://skillicons.dev">
+<h3 style="text-decoration : underline">Others</h3>
+<a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=docker,git,linux,npm,postman,ubuntu,vercel&theme=light" />
         </a>
-
 <hr>
-
-<h3 align="center" style="text-decoration : underline">Design</h3>
-<p align="center"><a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=figma,xd&theme=light" />
+<h3 style="text-decoration : underline">Design</h3>
+<a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=figma,xd,framer&theme=light" />
         </a>
 
 <hr>
 
-<h3 align="center" style="text-decoration : underline">Graphics</h3>
-<p align="center"><a href="https://skillicons.dev">
+<h3 style="text-decoration : underline">Graphics</h3>
+<a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=ae,ai,ps,pr,blender&theme=light" />
         </a>
 
+
+
+
+
 <hr>
-
-
-
-
 
 
 <h3 style="font-size:25px; text-decoration: underline;">Contributions :</h3>
@@ -79,4 +76,4 @@
 
 <hr>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ganeshwhere&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshwhere" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ganeshwhere&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshwhere" /> </p>
