@@ -48,25 +48,8 @@
 <hr>
 <h3 style="text-decoration : underline">Others</h3>
 <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=docker,git,linux,npm,postman,ubuntu,vercel&theme=light" />
+          <img src="https://skillicons.dev/icons?i=docker,git,linux,npm,postman,ubuntu,vercel,ae,figma,xd,ai,ps,pr,blender&theme=light" />
         </a>
-<hr>
-<h3 style="text-decoration : underline">Design</h3>
-<a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=figma,xd,framer&theme=light" />
-        </a>
-
-<hr>
-
-<h3 style="text-decoration : underline">Graphics</h3>
-<a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=ae,ai,ps,pr,blender&theme=light" />
-        </a>
-
-
-
-
-
 <hr>
 
 
