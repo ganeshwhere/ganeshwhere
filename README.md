@@ -53,7 +53,7 @@
 <hr>
 
 
-<h3 style="font-size:25px; text-decoration: underline;">Contributions :</h3>
+<h3 text-decoration: underline;">Contributions :</h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshwhere&" alt="ganeshwhere" /></p>
 
