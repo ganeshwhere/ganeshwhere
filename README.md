@@ -1,4 +1,4 @@
-<h3">GANESH W</h3>
+<h3>GANESH W</h3>
 <hr>
 <h3>Frontend Developer | UI/UX Designer</h3>
 <hr>
