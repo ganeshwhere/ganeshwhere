@@ -45,12 +45,7 @@
           <img src="https://skillicons.dev/icons?i=flutter,nextjs&theme=light" />
         </a>
 
-<hr>
-<h3 style="text-decoration : underline">Others</h3>
-<a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=docker,git,linux,npm,postman,ubuntu,vercel,ae,figma,xd,ai,ps,pr,blender&theme=light" />
-        </a>
-<hr>
+
 
 
 <h3 text-decoration: underline;">Contributions :</h3>
