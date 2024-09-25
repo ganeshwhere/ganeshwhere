@@ -44,6 +44,12 @@
 <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=flutter,nextjs&theme=light" />
         </a>
+<hr>
+
+<h3 style="text-decoration : underline">Other</h3>
+<a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=blender&theme=light" />
+        </a>
 
 
 
