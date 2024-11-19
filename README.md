@@ -1,6 +1,6 @@
 <h3>GANESH W</h3>
 <hr>
-<h3>Hi, I'm Ganesh, <u>Fullstack Developer and Graphic Designer</u> I work with React.js, Node.js and Python</h3>
+<h3>Hi, I'm Ganesh, <u>Fullstack Developer and Graphic Designer</u>. I work with React.js, Node.js and Python</h3>
 <hr>
 <h3>Tech Stacks :</h3>
 
@@ -8,21 +8,21 @@
 
 <h3 style="text-decoration : underline">Programming Languages</h3>
 <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=python,javascript,java" />
+          <img src="https://skillicons.dev/icons?i=python,javascript" />
         </a>
 
 <hr>
 
 <h3 style="text-decoration : underline">Frontend Development</h3>
 <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,javascript,ts,react,vue,electron&theme=light" />
+          <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,ts,react,vue,&theme=light" />
         </a>
 
 <hr>
 
 <h3 style="text-decoration : underline">Backend Development</h3>
 <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=nodejs,python,django,flask,express&theme=light" />
+          <img src="https://skillicons.dev/icons?i=nodejs,python,flask,express&theme=light" />
         </a>
 <hr>
 
