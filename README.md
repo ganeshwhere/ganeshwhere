@@ -1,6 +1,6 @@
 <h3>GANESH W</h3>
 <hr>
-<h3>Frontend Developer | UI/UX Designer</h3>
+<h3>Fullstack Developer</h3>
 <hr>
 <h3>Hi, I'm Ganesh, <u>Frontend Developer and UI/UX Designer</u> with a solid grasp of <u>Backend Development</u> principles, I am adept at creating intuitive and visually appealing web applications. Currently, I am honing my skills in Flutter and Next.js to expand my capabilities in mobile app development and modern web frameworks, enabling me to deliver cutting-edge digital solutions.</h3>
 
