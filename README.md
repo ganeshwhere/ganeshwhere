@@ -1,6 +1,6 @@
 <h3>GANESH W</h3>
 <hr>
-<h3>Hi, I'm Ganesh, <u>Fullstack Developer and Graphic Designer</u>. I work with React.js, Node.js and Python</h3>
+<h3>Hi, I'm Ganesh, <u>Fullstack Developer</u>. I work with React.js, Node.js and Python</h3>
 <hr>
 <h3>Tech Stacks :</h3>
 
