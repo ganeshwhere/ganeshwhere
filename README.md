@@ -1,56 +1,5 @@
-<h3>GANESH W</h3>
+I am a Full Stack Developer, I primarily work on frontend development with JavaScript and TypeScript using different frameworks like React.js, Next.js, and Remix.
 
-<h3>Hi, I'm Ganesh, <u>Fullstack Developer</u>. I work with React.js, Node.js and Python</h3>
+Also I work on backend development using Node.js and Express and I can build real time applications with WebSockets. I have experience working with various services to deploy scalable applications on cloud platforms such as Cloudflare, AWS, Azure and DigitalOcean. For databases, I’ve worked with MongoDB, PostgreSQL, Redis and Prisma as my ORM.
 
-<h3>Tech Stacks :</h3>
-
-
-
-<h3 style="text-decoration : underline">Programming Languages</h3>
-<a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=python,javascript" />
-        </a>
-
-
-
-<h3 style="text-decoration : underline">Frontend Development</h3>
-<a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,ts,react,vue,&theme=light" />
-        </a>
-
-
-
-<h3 style="text-decoration : underline">Backend Development</h3>
-<a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=nodejs,python,flask,express&theme=light" />
-        </a>
-
-
-
-<h3 style="text-decoration : underline">Database</h3>
-<a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=mongo,mysql,redis&theme=light" />
-        </a>
-
-
-<h3 style="text-decoration : underline">Currently Learning</h3>
-<a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=flutter,nextjs&theme=light" />
-        </a>
-
-
-<h3 style="text-decoration : underline">Other</h3>
-<a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=blender,ae,ps,figma&theme=light" />
-        </a>
-
-
-
-
-<h3 text-decoration: underline;">Contributions :</h3>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshwhere&" alt="ganeshwhere" /></p>
-
-<hr>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ganeshwhere&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshwhere" /> </p>
+On the DevOps side, I have experience with GitHub Actions, Jenkins, Kubernetes, Docker Swarm, Ansible, Kafka and Datadog for monitoring applications.
